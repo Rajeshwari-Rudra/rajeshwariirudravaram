@@ -1,6 +1,6 @@
 ## About me
 
-I'm Rajeshwari Rudravaram born and brought up in Hyderabad which is located at southern part of India.I did my undergraduation in Electronics and Communication Engineering from Jawaharlal Nehru Technological University Hyderabad.Currently I'm pursuing Masters in Applied Computer Science from Northwest Missouri State University.My hobbies are travelling,chit-chatting with friends and browsing web.My short term goal is to become a Big Data Engineer and my long term goal is to become an Entrepreneur.
+I'm Rajeshwari born and brought up in Hyderabad which is located at southern part of India.I did my undergraduation in Electronics and Communication Engineering from Jawaharlal Nehru Technological University Hyderabad.Currently I'm pursuing Masters in Applied Computer Science from Northwest Missouri State University.My hobbies are travelling,chit-chatting with friends and browsing web.My short term goal is to become a Big Data Engineer and my long term goal is to become an Entrepreneur.
 
 ## Collaboration
 - GitHub flow : Create or Delete the branches
@@ -32,4 +32,4 @@ I'm Rajeshwari Rudravaram born and brought up in Hyderabad which is located at s
 
 
 ## LinkedIn Profile 
-- You can connect me at <a attid="8742" href="https://www.linkedin.com/in/rajeshwari-r-52b53095/" width="20" height="20"><img src="https://www.linkedin-makeover.com/wp-content/uploads/2014/08/linkedin.png" alt="linkedin" width="20" height="20" class="alignleft size-full wp-image-8742"></a>
+- You can connect me at <a attid="8742" href="https://www.linkedin.com/in/r-r-52b53095/" width="20" height="20"><img src="https://www.linkedin-makeover.com/wp-content/uploads/2014/08/linkedin.png" alt="linkedin" width="20" height="20" class="alignleft size-full wp-image-8742"></a>
