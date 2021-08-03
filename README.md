@@ -1,6 +1,6 @@
 ## About me
 
-I'm Rajeshwari Rudravaram born and brought up in Hyderabad which is located at southern part of India.I did my undergraduation in Electronics and Communication Engineering from Jawaharlal Nehru Technological University Hyderabad.Currently I'm pursuing Masters in Applied Computer Science from Northwest Missouri State University.After completion of my UG program,I have been into various platforms.I worked as a PHP Developer for first two years and then worked as a Technical support for three years,later on I worked as Quality Assurance for two years.My hobbies are travelling,chit-chatting with friends and browsing web.My short term goal is to become a Big Data Engineer and my long term goal is to become an Entrepreneur.
+I'm Rajeshwari Rudravaram born and brought up in Hyderabad which is located at southern part of India.I did my undergraduation in Electronics and Communication Engineering from Jawaharlal Nehru Technological University Hyderabad.Currently I'm pursuing Masters in Applied Computer Science from Northwest Missouri State University.My hobbies are travelling,chit-chatting with friends and browsing web.My short term goal is to become a Big Data Engineer and my long term goal is to become an Entrepreneur.
 
 ## Collaboration
 - GitHub flow : Create or Delete the branches
@@ -13,12 +13,6 @@ I'm Rajeshwari Rudravaram born and brought up in Hyderabad which is located at s
 
 ## Tools and Languages used in GitHub
 ![Most used languages in GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshwari-rudra&langs_count=6)
-
-
-## Experience
-- Worked as a "PHP Developer" by creating websites and applications based on customer’s requirements. Compose and testing the code after designing the elements of website. Worked closely with Project Managers and other developers to define parameters and plan detailed specifications with clear project deliverables and timelines to drive completion of deliverables by meeting strict deadlines.
-- Worked as an "Information Retrieval Officer" by managing quality assurance programs, including on-site evaluations, internal audits and customer surveys using database. Devoted special emphasis to punctuality and worked to maintain outstanding attendance record, regularly arriving to work ready to start immediately.
-- Recently,I have done an internship as "HTML Developer" at "PBL Intership Program".I have created application forms for our campus as well as for elementary school of "Northwest Missouri State University" under Registrar office.
 
 
 ## Languages and Tools
